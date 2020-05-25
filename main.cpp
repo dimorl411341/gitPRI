@@ -11,7 +11,7 @@ int main()
 	cout << "¬ведите b=";
 	cin >> b;
 	cout << endl;
-	c = a + b;
-	cout << "—умма равна =" << c;
+	//c = a + b;
+	//cout << "—умма равна =" << c;
 	return 0;
 }
